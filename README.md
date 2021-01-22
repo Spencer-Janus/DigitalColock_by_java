@@ -1,5 +1,4 @@
-# DigitalColock_by_java
-大作业课题  
+# DigitalColock_by_java  
 （1）课题代号：  
 （2）课题名称：多功能数字钟程序  
 （3）课题要求：  
